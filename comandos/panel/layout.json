@@ -1,0 +1,104 @@
+{
+  "size": [
+    1600,
+    900
+  ],
+  "padding": 24,
+  "gap": 16,
+  "grid": {
+    "cols": 12,
+    "rows": 8
+  },
+  "areas": [
+    [
+      "NOMBRE_CRYPTO_PRECIO",
+      0,
+      0,
+      9,
+      1
+    ],
+    [
+      "SIETE_DIAS",
+      9,
+      0,
+      3,
+      4
+    ],
+    [
+      "TENDENCIA",
+      0,
+      1,
+      5,
+      1
+    ],
+    [
+      "RSI",
+      0,
+      2,
+      5,
+      1
+    ],
+    [
+      "MACD",
+      0,
+      3,
+      5,
+      1
+    ],
+    [
+      "Grafica_linea",
+      5,
+      1,
+      4,
+      3
+    ],
+    [
+      "ORDER_BOOK",
+      9,
+      4,
+      3,
+      4
+    ],
+    [
+      "PRECIO_VS_EMAs",
+      0,
+      4,
+      5,
+      3
+    ],
+    [
+      "RSI_MACD_VOLUME",
+      5,
+      4,
+      4,
+      3
+    ],
+    [
+      "COMENTARIO",
+      0,
+      7,
+      5,
+      1
+    ],
+    [
+      "STRONG_BUY_SELL_SIGNAL",
+      5,
+      7,
+      4,
+      1
+    ]
+  ],
+  "blocks": {
+    "NOMBRE_CRYPTO_PRECIO": "NOMBRE_CRYPTO_PRECIO",
+    "TENDENCIA": "TENDENCIA",
+    "RSI": "RSI",
+    "MACD": "MACD",
+    "PRECIO_VS_EMAs": "PRECIO_VS_EMAs",
+    "Grafica_linea": "Grafica_linea",
+    "SIETE_DIAS": "SIETE_DIAS",
+    "ORDER_BOOK": "ORDER_BOOK",
+    "RSI_MACD_VOLUME": "RSI_MACD_VOLUME",
+    "COMENTARIO": "COMENTARIO",
+    "STRONG_BUY_SELL_SIGNAL": "STRONG_BUY_SELL_SIGNAL"
+  }
+}
