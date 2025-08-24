@@ -1,0 +1,55 @@
+{
+  "934453561889263688:1408188622926250096": {
+    "symbol": "WIF/USD",
+    "exchange": "kraken",
+    "timeframes": [
+      "4h",
+      "1d",
+      "1w"
+    ],
+    "rally_score_needed": 3,
+    "cooloff_minutes": 60,
+    "rsi_rally_min": 55.0,
+    "rsi_exit_overbought": 70.0,
+    "vol_spike_mult": 1.5,
+    "enabled": true,
+    "zigzag_pct": 0.06,
+    "price_tolerance": 0.006,
+    "panel_theme": "dark",
+    "panel_borders": false
+  },
+  "934453561889263688:1408188744971845742": {
+    "symbol": "BONK/USD",
+    "exchange": "kraken",
+    "timeframes": [
+      "4h",
+      "1d",
+      "1w"
+    ],
+    "rally_score_needed": 3,
+    "cooloff_minutes": 60,
+    "rsi_rally_min": 55.0,
+    "rsi_exit_overbought": 70.0,
+    "vol_spike_mult": 1.5,
+    "enabled": true,
+    "zigzag_pct": 0.07,
+    "price_tolerance": 0.008,
+    "panel_theme": "dark",
+    "panel_borders": true
+  },
+  "934453561889263688:1408678861901660221": {
+    "symbol": "PEPE/USD",
+    "exchange": "kraken",
+    "timeframes": [
+      "4h",
+      "1d",
+      "1w"
+    ],
+    "rally_score_needed": 3,
+    "cooloff_minutes": 60,
+    "rsi_rally_min": 55.0,
+    "rsi_exit_overbought": 70.0,
+    "vol_spike_mult": 1.5,
+    "enabled": true
+  }
+}
